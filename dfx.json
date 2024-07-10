@@ -1,8 +1,8 @@
 {
     "defaults": {
-      "build": {
-        "packtool": "vessel sources"
-      }
+        "build": {
+            "packtool": "mops sources"
+        }
     },
     "version": 1
 }
